@@ -1,8 +1,4 @@
-Hello! Online I am refered to as "Zan".
-
-I mostly code for fun.
-
-My discord is @inzan17
+Hello! I'm Moono, also known as Kevin.
 
 Programming Languages I know:
 - Lua
@@ -12,15 +8,6 @@ Programming Languages I know:
 - Python
 - Java
 
-I also know HTML and CSS though I'm not very good at it.
-
-Speaking Languages I know:
+I speak these languages:
 - English
 - Swedish
-
-
-
-<!---
-InZan123/InZan123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
